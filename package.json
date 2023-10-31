@@ -6,8 +6,10 @@
   },
   "devDependencies": {
     "@types/three": "^0.158.0",
+    "css-loader": "^6.8.1",
     "html-webpack-plugin": "^5.5.3",
     "serve": "^14.2.1",
+    "style-loader": "^3.3.3",
     "ts-loader": "^9.5.0",
     "typescript": "^5.2.2",
     "webpack": "^5.89.0",
